@@ -1,0 +1,3 @@
+MAIN &:
+	VAR1 IS 5 !
+QUIT
